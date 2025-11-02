@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! I'm **Metatobac**. <br>I'm a French student who likes coding, gaming and procrastinating. <br>I mainly use this Github for personal projects or school work.
+# About Me:
+Hi! I'm **Metatobac**. <br>I'm a French student who likes coding, gaming and procrastinating. <br>I mainly use Github for personal projects or school work.
 
 
 ## Socials:
@@ -15,5 +15,7 @@ Hi! I'm **Metatobac**. <br>I'm a French student who likes coding, gaming and pro
   ## You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/metatobac) 
 
-  
+
+
+##### Profile picture from [Mii Creator](https://mii.nxw.pw)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
